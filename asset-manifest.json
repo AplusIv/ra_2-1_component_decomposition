@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ra_2-1_component_decomposition/static/css/main.e4bfa266.css",
+    "main.js": "/ra_2-1_component_decomposition/static/js/main.a5623064.js",
+    "static/js/787.3b11bcbc.chunk.js": "/ra_2-1_component_decomposition/static/js/787.3b11bcbc.chunk.js",
+    "static/media/banner.webp": "/ra_2-1_component_decomposition/static/media/banner.ab080aa219b2d8245f47.webp",
+    "static/media/beginner-teaching-mistakes.jpg": "/ra_2-1_component_decomposition/static/media/beginner-teaching-mistakes.4e81b08a88d234c9278c.jpg",
+    "static/media/weather.svg": "/ra_2-1_component_decomposition/static/media/weather.99c5d2f91212d11207c7768155a3718e.svg",
+    "index.html": "/ra_2-1_component_decomposition/index.html",
+    "main.e4bfa266.css.map": "/ra_2-1_component_decomposition/static/css/main.e4bfa266.css.map",
+    "main.a5623064.js.map": "/ra_2-1_component_decomposition/static/js/main.a5623064.js.map",
+    "787.3b11bcbc.chunk.js.map": "/ra_2-1_component_decomposition/static/js/787.3b11bcbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4bfa266.css",
+    "static/js/main.a5623064.js"
+  ]
+}
