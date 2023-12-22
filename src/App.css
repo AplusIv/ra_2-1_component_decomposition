@@ -1,38 +1,55 @@
-.App {
-  text-align: center;
+ul {
+  list-style: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+a {
+  text-decoration: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.main-widjets {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-wrap: wrap;
+  border: 1px solid blue;
+  border-radius: 5px;
 }
 
-.App-link {
-  color: #61dafb;
+.other-widjets {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid green;
+  border-radius: 5px;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.categories {
+  display: flex;
+  justify-content: space-between;  
+}
+
+.banner-container {
+  width: 100%;
+}
+
+.banner-container img {
+  width: 100%;
+}
+
+.widjet {
+  width: 25%;
+  border: 1px dashed red;
+  border-radius: 5px;
+}
+
+.news-widjet {
+  width: 65%;
+  border: 1px dashed red;
+  border-radius: 5px;
+}
+
+.news-widjet img, .on-air-widjet img {
+  max-width: 10%;
+}
+
+.widjet > img {
+  max-width: 40%;
 }
